@@ -3,8 +3,8 @@ package ex01;
 public class ArrayTest01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("하현상");
+		System.out.println("전정국.......");
 	}
 
 }
